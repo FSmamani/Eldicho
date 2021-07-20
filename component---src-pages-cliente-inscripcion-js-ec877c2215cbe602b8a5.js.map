@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://ElDichoApp/./src/pages/cliente/inscripcion.js"],"names":["Component"],"mappings":"iKAEe,SAASA,IACtB,MAAO","file":"component---src-pages-cliente-inscripcion-js-ec877c2215cbe602b8a5.js","sourcesContent":["import * as React from \"react\"\r\n\r\nexport default function Component () {\r\n  return \"Hello world\"\r\n}"],"sourceRoot":""}

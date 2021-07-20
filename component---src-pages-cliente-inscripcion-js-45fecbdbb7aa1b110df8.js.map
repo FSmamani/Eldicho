@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://em/./src/pages/cliente/inscripcion.js"],"names":["Component"],"mappings":"iJAEe,SAASA,IACtB,MAAO","file":"component---src-pages-cliente-inscripcion-js-45fecbdbb7aa1b110df8.js","sourcesContent":["import * as React from \"react\"\r\n\r\nexport default function Component () {\r\n  return \"Hello world\"\r\n}"],"sourceRoot":""}
